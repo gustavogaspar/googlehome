@@ -16,21 +16,5 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gustavogaspar/googlehome.git"
-  },
-  "keywords": [
-    "node",
-    "webhook",
-    "googlehome",
-    "oracle",
-    "digital",
-    "assistant"
-  ],
-  "bugs": {
-    "url": "https://github.com/gustavogaspar/googlehome/issues"
-  },
-  "homepage": "https://github.com/gustavogaspar/googlehome#readme"
+  }
 }
